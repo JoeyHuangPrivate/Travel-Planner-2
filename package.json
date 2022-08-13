@@ -9,6 +9,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "require": "^2.4.20",
     "yelp-fusion": "^2.2.1"
-  }
+  },
+  "type": "module"
 }
